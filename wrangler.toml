@@ -7,7 +7,7 @@ compatibility_date = "2023-05-26"
 
 [vars]
 PASSWORD = "paijo"
-PROXYIP = "35.219.50.99"
+PROXYIP = "8.18.195.100"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
